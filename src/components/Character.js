@@ -11,7 +11,7 @@ const StyledDiv = styled.div`
 `
 
 const StyledCharacter = styled.h3`
-    border: 2px dotted darkgray;
+    border: 2px dotted black;
     text-align: left;
     padding: 1%;
     border-radius: 10px;
