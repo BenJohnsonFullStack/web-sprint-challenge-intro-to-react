@@ -1,6 +1,8 @@
 import React from 'react';
+import { useState, useEffect } from 'react';
 
 const App = () => {
+  const [data, setData] = useState(null);
   // Try to think through what state you'll need for this app before starting. Then build out
   // the state properties here.
 
